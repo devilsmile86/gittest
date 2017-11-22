@@ -1,0 +1,42 @@
+body {
+	color: red;
+	text-align: center;
+	font-family: verdana, sans-serif;
+}
+
+h1 {
+	font-size: 2em;
+	font-weight: bold;
+	margin: 40px 0px 70px;
+	text-align: center;
+}
+
+.gwt-Button {
+	font-size: 150%;
+	width: 100px;
+	height: 100px;
+}
+
+.gwt-Big-Text {
+	color: red;
+	font-size: 150%;
+}
+
+.gwt-Small-Text {
+	color: blue;
+	font-size: 75%;
+}
+
+.MyText {
+	color: red;
+}
+
+.BigText {
+	color: blue;
+	font-size: large;
+}
+
+.LoudText {
+	color: yellow;
+	font-weight: bold;
+}
